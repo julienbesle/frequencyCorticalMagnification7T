@@ -32,6 +32,8 @@ repository-code: "https://github.com/julienbesle/frequencyCorticalMagnification7
 
 url: "https://github.com/julienbesle/frequencyCorticalMagnification7T"
 
+doi: "10.5281/zenodo.21879249"
+
 keywords:
   - auditory cortex
   - cortical frequency magnification

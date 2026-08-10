@@ -9,7 +9,7 @@ The pre-processing and analysis steps are described in detail in the associated 
 
 ## Reproducibility
 
-The code corresponding to the analyses reported in Gurer et al. (2026) is archived on Zenodo as release v0.1.1.
+The code corresponding to the analyses reported in Gurer et al. (2026) is archived on Zenodo as release v0.1.1. (https://doi.org/10.5281/zenodo.21879249)
 
 ---
 
