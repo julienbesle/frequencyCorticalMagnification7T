@@ -1,0 +1,65 @@
+```yaml
+cff-version: 1.2.0
+message: "If you use this software, please cite it using the metadata from this file."
+
+title: "Analysis code for Frequency magnification in human primary auditory cortex nearly predicts behavioural frequency hyperacuity"
+
+authors:
+  - family-names: Gurer
+    given-names: "Benjamin Jason"
+  - family-names: Sánchez-Panchuelo
+    given-names: "Rosa-Maria"
+  - family-names: Francis
+    given-names: "Susan T."
+  - family-names: Schluppeck
+    given-names: "Denis"
+  - family-names: Krumbholz
+    given-names: "Katrin"
+  - family-names: Besle
+    given-names: "Julien"
+
+abstract: >
+  Analysis code used to replicate the analyses and figures reported in
+  "Frequency magnification in human primary auditory cortex nearly predicts
+  behavioural frequency hyperacuity", an ultra-high-field (7 Tesla)
+  functional MRI study investigating the cortical representation of sound
+  frequency in human primary auditory cortex and its relationship to
+  cochlear selectivity, cortical frequency magnification, and frequency
+  discrimination performance.
+
+license: GPL-3.0-or-later
+
+repository-code: "https://github.com/julienbesle/frequencyCorticalMagnification7T"
+
+url: "https://github.com/julienbesle/frequencyCorticalMagnification7T"
+
+keywords:
+  - auditory cortex
+  - cortical frequency magnification
+  - frequency discrimination
+  - fMRI
+  - functional MRI
+  - 7 Tesla
+  - neuroimaging
+  - tonotopy
+  - auditory neuroscience
+
+preferred-citation:
+  type: article
+  title: "Frequency magnification in human primary auditory cortex nearly predicts behavioural frequency hyperacuity"
+  authors:
+    - family-names: Gurer
+      given-names: "Benjamin Jason"
+    - family-names: Sánchez-Panchuelo
+      given-names: "Rosa-Maria"
+    - family-names: Francis
+      given-names: "Susan T."
+    - family-names: Schluppeck
+      given-names: "Denis"
+    - family-names: Krumbholz
+      given-names: "Katrin"
+    - family-names: Besle
+      given-names: "Julien"
+  year: 2026
+  doi: "10.64898/2026.06.17.732895"
+```

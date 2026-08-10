@@ -1,11 +1,15 @@
 ## Frequency Cortical Magnification in Human Auditory Cortex at 7 Tesla
 
-This repository contains the code to replicate the analyses and figure of Gurer et al. (2026), an ultra-high-field (7 Tesla) functional MRI study data investigating the cortical representation of sound frequency in the human primary auditory cortex and its relationship to both cochlear selectivity/magnification and frequency discrimination performance.
+This repository contains the code to replicate the analyses and figures of Gurer et al. (2026), an ultra-high-field (7 Tesla) functional MRI study data investigating the cortical representation of sound frequency in the human primary auditory cortex and its relationship to both cochlear selectivity/magnification and frequency discrimination performance.
 
 The code is mainly written in Matlab and R, with some pre-processing steps calling bash scripts (including Freesurfer scripts and commands).
 Pre-processed data are provided with the associated dataset (see reference below), and so only the Matlab and R code is necessary to replicate the article's analyses and figures from the provided data.
 
-The pre-processing and analysis steps are described in detail in the associated publication (see below).
+The pre-processing and analysis steps are described in detail in the associated publication (see reference below).
+
+## Reproducibility
+
+The code corresponding to the analyses reported in Gurer et al. (2026) is archived on Zenodo as release v0.0.0.
 
 ---
 
@@ -13,7 +17,6 @@ The pre-processing and analysis steps are described in detail in the associated 
 
 The 20-participant dataset is freely available on OpenNeuro at https://doi.org/10.18112/openneuro.ds008460.v1.1.0
 
----
 
 ## Associated Publication
 
@@ -40,4 +43,4 @@ Email: julien.besle@plymouth.ac.uk
 
 ## License
 
-This dataset is distributed under the **CC0 1.0 Universal** license.
+This code is distributed under the **GPL-3.0-or-later** license.
